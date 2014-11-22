@@ -1,0 +1,6 @@
+---
+source: http://share.dmhy.org/topics/rss/sort_id/2/rss.xml
+filter: "/path/to/dmhy-filter/filter.txt"
+output: "/path/to/dmhy-filter/feed.xml"
+expired_day: 3
+last_updated: 2014-11-22 10:09:25.000000000 -05:00
